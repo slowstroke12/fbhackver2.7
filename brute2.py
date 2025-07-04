@@ -28,9 +28,9 @@ except:
 print('\n---------- Welcome To Facebook BruteForce ----------\n')
 file=open('password.txt', 'r')
 
-email= input('Enter Email/Username : ')
+email= input(gotnotimeforbs@gmail.com : ')
 
-print ("\nTarget Email ID : ",email)
+print (karliritter12@gmail.com)
 
 password = file.readline(20000000)
 Password = ("password")
